@@ -1,4 +1,10 @@
 html, body {
   height: 100%;
   width: 100%;
+  background-image: url('./tim-mossholder-WE_Kv_ZB1l0-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
 }
